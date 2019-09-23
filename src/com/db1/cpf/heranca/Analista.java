@@ -6,12 +6,12 @@ public class Analista extends Funcionario {
 	
 	//Métodos
 	public void analisar() {
-		
+		System.out.println("Analisando...");
 	}
 	
 	//Métodos especiais
-	public Analista() {
-		
+	public Analista(double salario) {
+		this.setSalario(salario);
 	}
 	
 	public String getNivel() {

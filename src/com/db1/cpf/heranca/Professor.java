@@ -7,12 +7,12 @@ public class Professor extends Pessoa {
 	private boolean trabalhando;
 	
 	//Métodos
-	public void mudarTrabalho() {
-		
+	public void aplicarProva() {
+		System.out.println("Aplicando prova...");
 	}
 	
 	public void ensinarConteudo() {
-		
+		System.out.println("Ensinando conteúdo...");
 	}
 	
 	//Métodos especiais

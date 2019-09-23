@@ -10,7 +10,7 @@ public abstract class Pessoa {
 	
 	//Métodos
 	public void fazerAniversario() {
-			
+		System.out.println("Fazendo aniversário...");
 	}
 	
 	//Métodos especiais
