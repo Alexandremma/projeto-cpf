@@ -8,7 +8,7 @@ public class Gerente extends Funcionario {
 	
 	//Métodos
 	public void gerenciarFuncionarios() {
-		System.out.println("Gerenciando funcionários");
+		System.out.println("Gerenciando funcionários...");
 	}
 	
 	//Métodos especiais

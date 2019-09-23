@@ -8,11 +8,11 @@ public class Aluno extends Pessoa {
 	
 	//Métodos
 	public void cancelarMatricula() {
-		System.out.println("Cancelando matrícula");
+		System.out.println("Cancelando matrícula...");
 	}
 	
 	public void assistirAula() {
-		System.out.println("Assistindo aula");
+		System.out.println("Assistindo aula...");
 	}
 	
 	//Métodos especiais
